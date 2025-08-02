@@ -1,7 +1,7 @@
 # Iraq-Map-Generator
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Version](https://img.shields.io/github/v/tag/abdyar/Invisible-Anti-Phishing-Browser-Extension)
+![Version](https://img.shields.io/github/v/tag/abdyar/Iraq-Map-Generator)
 
 A Python script to generate a detailed map of Iraq using GeoPandas, Matplotlib, and Natural Earth data. Visualizes country borders, major rivers, and lakes from public shapefiles.
 
