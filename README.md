@@ -5,8 +5,7 @@ This project contains a Python script that generates a detailed map of Iraq, hig
 
 ## Prerequisites
 
-Before runnin<img width="637" height="637" alt="Screenshot 2025-08-02 113338" src="https://github.com/user-attachments/assets/4664bfa7-39ad-41fa-977b-7c995632b5dd" />
-g the script, you'll need to have Python and a few libraries installed.
+Before running the script, you'll need to have Python and a few libraries installed.
 
 * **Python 3.x**
 * **Libraries:** Install the necessary Python packages using pip:
@@ -39,4 +38,7 @@ The script will execute and save the resulting map as a PNG file named `iraq_map
 
 ## Example Output
 
-The generated image will be a map of Iraq with its geographical boundaries outlined, and the country's major rivers and lakes drawn in blue.
+The generated image will be a map of Iraq with its geographical boundaries outlined, and the country's major rivers and lakes drawn in blue.nd lakes drawn in blue.
+
+<img width="637" height="637" alt="Screenshot 2025-08-02 113338" src="https://github.com/user-attachments/assets/740a1617-8691-4880-ad03-74b61b57fa5b" />
+
