@@ -32,7 +32,7 @@ This script requires three shapefiles from Natural Earth Data. You must download
 3.  Open your terminal or command prompt.
 4.  Navigate to the project folder using the `cd` command. For example:
     ```bash
-    cd C:\Users\abdul\Documents\iraq_map_project
+    cd C:\Users\----\Documents(anything)\iraq_map_project
     ```
 5.  Run the script with the following command:
     ```bash
